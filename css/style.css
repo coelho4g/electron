@@ -1,0 +1,67 @@
+body
+{
+    background-color: black;
+    color: white;
+    font-size: 20pt;
+}
+
+ul 
+{
+    position: relative;
+    text-align: right;
+    margin-top: -78px;
+    border: none;
+}
+
+li
+{
+    display: inline;
+    margin: 5px;
+    border: none;
+}
+
+a
+{
+    color: white;
+    text-decoration: none;
+    text-decoration-style: none;
+    text-decoration-color: none;
+}
+
+a.logo
+{
+    border-style: dashed;
+    color: white;
+}
+
+img
+{
+    background-color: white;
+}
+
+div.conteiner
+{
+    text-align: left;
+    font-size: 15pt;
+    margin-top: 95px;
+    float: left;
+    width: 600px;
+    padding: 10px;
+    overflow: auto;
+    display: block;
+    padding: 10px;
+}
+
+div.video
+{
+    width: 600px;
+    padding: 15px;
+    margin-top: 90px;
+    float: left;
+}
+
+div.content
+{
+    margin-top: 50px;
+    border-style: double;
+}
